@@ -1,21 +1,21 @@
-# coaaf4ba89cabba0d8bc12d34
 
-Quick start:
+# Endorsements App
+## Screenshot
 
-```
-$ npm install
-$ npm start
-````
+![screenshot](images/screenshot.png)
+## Description
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
++ This Endorsements App allow users to endorse other people anonymously and it will all be displayed in the endorsement list below it can be eventually removed just by clicking on it.
++ The endorsements are saved to the firebase database, which means they are visible to anyone using the app
++ After opening the app on chrome browser, click the options button (usually the 3 dot icon) and click on "Add to Home screen". The app will then be added to your screen as an app.
+    + This is part of the Scrimba Front-End Career Path projects
+## Built With
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
++ HTML
++ CSS
++ JavaScript
++ Firebase
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Live Demo
 
-Happy Coding!
+- Live Site URL: [Here](https://hudamab95.github.io/Endorsements-App/)
