@@ -2,7 +2,7 @@
 # Endorsements App
 ## Screenshot
 
-![screenshot](images/screenshot.png)
+![screenshot](screenshot.png)
 ## Description
 
 + This Endorsements App allow users to endorse other people anonymously and it will all be displayed in the endorsement list below it can be eventually removed just by clicking on it.
